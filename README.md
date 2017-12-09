@@ -50,4 +50,5 @@
 ### Extra
 
 [wallpapers] - *used in this setup*
+
 [wallpapers]: https://github.com/pavanjadhaw/fortnight/tree/master/images/walls
