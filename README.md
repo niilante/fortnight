@@ -49,5 +49,5 @@
 
 ### Extra
 
-[wallpaper - used in setup]
-[wallpaper - used in setup]: https://github.com/pavanjadhaw/fortnight/tree/master/images/walls
+[wallpapers] - *used in this setup*
+[wallpapers]: https://github.com/pavanjadhaw/fortnight/tree/master/images/walls
