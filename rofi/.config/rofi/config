@@ -1,0 +1,23 @@
+! ------------------------------------------------------------------------------
+!                      ROFI Settings
+! ------------------------------------------------------------------------------
+!1st back, 4th selection
+! General
+
+rofi.font:                UW ttyp0 9
+rofi.fake-transparency:   false
+rofi.hide-scrollbar:      true
+
+
+! Layout
+rofi.bw:                 2
+rofi.width:              20
+rofi.column:             0
+rofi.location:           1
+rofi.lines:              30
+rofi.padding:            10
+rofi.sidebar-mode:       false
+rofi.fullscreen:         false
+rofi.xoffset:            20
+rofi.yoffset:            50
+rofi.separator-style:    none

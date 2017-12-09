@@ -1,0 +1,11 @@
+! Colors
+#include ".x/colors/tomorrow-night"
+
+! Font Settings
+#include ".x/fonts"
+
+! URxvt
+#include ".x/urxvt"
+
+! Rofi Colors
+#include ".x/rofi"
