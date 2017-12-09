@@ -26,20 +26,24 @@
  i3lock-color   > minimal extensible lockscreen
 ```
 
----
 
 #### scrots
+
+---
 *scrot1.png*
 ![scrot1.png](https://github.com/pavanjadhaw/fortnight/raw/master/images/scrots/scrot1.png)
 *featuring xfce terminal, neovim*
 
 
+---
 *scrot2.png*
 ![scrot2.png](https://github.com/pavanjadhaw/fortnight/raw/master/images/scrots/scrot2.png)
 *featuring rofi, polybar and dunst*
 
 
 #### lockscreen
+
+---
 *i3lock*
 ![lock.png](https://github.com/pavanjadhaw/fortnight/raw/master/images/scrots/lock.png)
 *custom i3lock script* - [betterlockscreen]
