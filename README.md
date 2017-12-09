@@ -44,3 +44,10 @@
 ![lock.png](https://github.com/pavanjadhaw/fortnight/raw/master/images/scrots/lock.png)
 
 [betterlockscreen]: https://github.com/pavanjadhaw/betterlockscreen
+
+
+
+### Extra
+
+[wallpaper - used in setup]
+[wallpaper - used in setup]: https://github.com/pavanjadhaw/fortnight/tree/master/images/walls
