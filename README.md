@@ -1,21 +1,6 @@
 ```
-      ██            ██     ████ ██  ██
-     ░██           ░██    ░██░ ░░  ░██
-     ░██  ██████  ██████ ██████ ██ ░██  █████   ██████
-  ██████ ██░░░░██░░░██░ ░░░██░ ░██ ░██ ██░░░██ ██░░░░
- ██░░░██░██   ░██  ░██    ░██  ░██ ░██░███████░░█████
-░██  ░██░██   ░██  ░██    ░██  ░██ ░██░██░░░░  ░░░░░██
-░░██████░░██████   ░░██   ░██  ░██ ███░░██████ ██████
- ░░░░░░  ░░░░░░     ░░    ░░   ░░ ░░░  ░░░░░░ ░░░░░░
-
-  ▓▓▓▓▓▓▓▓▓▓
- ░▓ about  ▓ custom linux config files
- ░▓ author ▓ pavan jadhaw
- ░▓ code   ▓ http://github.com/pavanjadhaw
- ░▓ dots   ▓ http://github.com/pavanjadhaw/fortnight
- ░▓▓▓▓▓▓▓▓▓▓
- ░░░░░░░░░░
-
+List of apps used...  
+  
  i3wm           > a dynamic tiling window manager
  scripts        > system automation scripts
  dunst          > lightweight notification daemon
